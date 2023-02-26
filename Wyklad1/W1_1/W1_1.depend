@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677054529 source:c:\users\piotrek\documents\cbprojects\w1_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677054529 source:c:\users\piotrek\documents\programowaniestrukturalne2023\wyklad1\w1_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
