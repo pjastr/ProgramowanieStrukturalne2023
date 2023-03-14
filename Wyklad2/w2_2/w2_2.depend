@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677656788 source:c:\users\piotrek\documents\cbprojects\w2_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
